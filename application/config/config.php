@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/mppl/';
+$config['base_url']	= 'http://localhost:49152/Job3/';
 
 /*
 |--------------------------------------------------------------------------
